@@ -280,6 +280,6 @@ div.info div.completo{
     clear:both;
 }
 
-div.completo img, div.medio img, div.completo object, div.medio obj{
+div.completo img, div.medio img, div.completo object, div.medio obj, div.medio svg{
     max-width: 100%
 }
